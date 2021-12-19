@@ -1,0 +1,24 @@
+{
+  "type": "module",
+  "name": "jhhomework8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bob-justbob/jhHomeWork8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bob-justbob/jhHomeWork8/issues"
+  },
+  "homepage": "https://github.com/bob-justbob/jhHomeWork8#readme",
+  "dependencies": {
+    "date-fns": "^2.27.0",
+    "moment": "^2.29.1"
+  }
+}
